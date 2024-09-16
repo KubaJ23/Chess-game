@@ -1,0 +1,40 @@
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.exe
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.deps.json
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.runtimeconfig.json
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.runtimeconfig.dev.json
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.dll
+H:\Programming\Chess\bin\Debug\net5.0-windows\ref\Chess.dll
+H:\Programming\Chess\bin\Debug\net5.0-windows\Chess.pdb
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.AssemblyReference.cache
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.GenerateResource.cache
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.AssemblyInfoInputs.cache
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.AssemblyInfo.cs
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.CoreCompileInputs.cache
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.dll
+H:\Programming\Chess\obj\Debug\net5.0-windows\ref\Chess.dll
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.pdb
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.genruntimeconfig.cache
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.ChessMenu.resources
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.Properties.Resources.resources
+H:\Programming\Chess\obj\Debug\net5.0-windows\Chess.ChessGame.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.exe
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.deps.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.runtimeconfig.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.runtimeconfig.dev.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\ref\Chess.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\bin\Debug\net5.0-windows\Chess.pdb
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.AssemblyReference.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.ChessGame.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.ChessMenu.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.Properties.Resources.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.GenerateResource.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.AssemblyInfoInputs.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.AssemblyInfo.cs
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.csproj.CoreCompileInputs.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\ref\Chess.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.pdb
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Chess\obj\Debug\net5.0-windows\Chess.genruntimeconfig.cache
